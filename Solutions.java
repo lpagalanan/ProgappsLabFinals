@@ -74,7 +74,6 @@ public class Solutions{
 
     public int Fraction(int number, int numerator, int denominator) {
 
-    public static void main(String[] args){
     	Scanner kbd = new Scanner(System.in);
     	
     	number = Integer.parseInt(kbd.nextLine());
